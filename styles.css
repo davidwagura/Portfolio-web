@@ -622,7 +622,7 @@ form btn2 {
 nav .fas {
 
     display: none;
-    
+
 }
 
 @media only screen and (max-width: 600px){
@@ -740,5 +740,15 @@ nav .fas {
       font-size: 14px;
 
     }
+
+}
+
+#msg {
+
+    color: #61b752;
+
+    margin-top: -40px;
+
+    display: block;
 
 }
