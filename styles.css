@@ -10,6 +10,12 @@
 
 }
 
+html {
+
+    scroll-behavior: smooth;
+    
+}
+
 body {
 
     background: #080808;
@@ -728,5 +734,5 @@ form btn2 {
       font-size: 14px;
 
     }
-    
+
 }
