@@ -13,7 +13,7 @@
 html {
 
     scroll-behavior: smooth;
-    
+
 }
 
 body {
@@ -618,6 +618,12 @@ form btn2 {
 
 
 /* css for small screens */
+
+nav .fas {
+
+    display: none;
+    
+}
 
 @media only screen and (max-width: 600px){
 
